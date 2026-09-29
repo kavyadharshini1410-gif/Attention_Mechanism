@@ -1,0 +1,5 @@
+Artificial intelligence is transforming technology.
+Machine learning helps computers learn from data.
+Deep learning uses neural networks.
+Attention mechanisms help models understand relationships.
+Large language models process human language.
